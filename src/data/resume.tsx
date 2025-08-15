@@ -121,7 +121,7 @@ export const DATA = {
       "MongoDB",
       "Docker"
     ],
-    image: "/rezav.jpg",
+    image: "/REZAV.jpg",
     video: "",
     links: []
   },
